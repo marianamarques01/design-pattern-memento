@@ -1,0 +1,195 @@
+/**
+ * Créditos por peça. As licenças variam; a aplicação usa CC0 para cabelos
+ * específicos e brinco, e OGA-BY 3.0/3.0+ para as demais peças.
+ */
+export const CREDITOS = [
+  {
+    nome: "Corpo masculino",
+    arquivoFonte: "body/bodies/male/idle.png",
+    autores: [
+      "bluecarrot16",
+      "JaidynReiman",
+      "Benjamin K. Smith (BenCreating)",
+      "Evert",
+      "Eliza Wyatt (ElizaWy)",
+      "TheraHedwig",
+      "MuffinElZangano",
+      "Durrani",
+      "Johannes Sjölund (wulax)",
+      "Stephen Challener (Redshrike)",
+    ],
+    licenca: "OGA-BY 3.0",
+    licencasOriginais: "OGA-BY 3.0, CC-BY-SA 3.0, GPL 3.0",
+    urls: [
+      "https://opengameart.org/content/lpc-character-bases",
+      "https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles",
+    ],
+  },
+  {
+    nome: "Corpo feminino",
+    arquivoFonte: "body/bodies/female/idle.png",
+    autores: [
+      "Benjamin K. Smith (BenCreating)",
+      "bluecarrot16",
+      "TheraHedwig",
+      "Evert",
+      "MuffinElZangano",
+      "Durrani",
+      "Pierre Vigier (pvigier)",
+      "ElizaWy",
+      "Matthew Krohn (makrohn)",
+      "Johannes Sjölund (wulax)",
+      "Stephen Challener (Redshrike)",
+    ],
+    licenca: "OGA-BY 3.0",
+    licencasOriginais: "OGA-BY 3.0, CC-BY-SA 3.0, GPL 3.0",
+    urls: [
+      "https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles",
+      "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites",
+      "https://opengameart.org/content/lpc-ladies",
+      "https://opengameart.org/content/lpc-7-womens-shirts",
+      "https://opengameart.org/content/lpc-character-bases",
+    ],
+  },
+  {
+    nome: "Cabeças humanas",
+    arquivoFonte: "head/heads/human/male/idle.png · head/heads/human/female/idle.png",
+    autores: [
+      "bluecarrot16",
+      "Benjamin K. Smith (BenCreating)",
+      "Stephen Challener (Redshrike)",
+    ],
+    licenca: "OGA-BY 3.0",
+    licencasOriginais: "OGA-BY 3.0, CC-BY-SA 3.0, GPL 3.0",
+    urls: [
+      "https://opengameart.org/content/lpc-character-bases",
+      "https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles",
+    ],
+  },
+  {
+    nome: "Expressões neutras",
+    arquivoFonte: "head/faces/male/neutral/idle.png · head/faces/female/neutral/idle.png",
+    autores: ["JaidynReiman", "ElizaWy", "Stephen Challener (Redshrike)"],
+    licenca: "OGA-BY 3.0",
+    licencasOriginais: "OGA-BY 3.0",
+    urls: [
+      "https://github.com/ElizaWy/LPC/tree/main/Characters/Head",
+      "https://opengameart.org/content/ulpc-expanded-expressions",
+    ],
+  },
+  {
+    nome: "Cabelo curto (Flat top fade)",
+    arquivoFonte: "hair/flat_top_fade/adult/idle.png",
+    autores: ["ElizaWy", "bluecarrot16"],
+    licenca: "CC0",
+    licencasOriginais: "CC0",
+    urls: ["https://opengameart.org/content/lpc-hair"],
+  },
+  {
+    nome: "Cabelo longo (Long straight)",
+    arquivoFonte: "hair/long_straight/adult/idle.png",
+    autores: ["JaidynReiman", "bluecarrot16", "thecilekli"],
+    licenca: "CC0",
+    licencasOriginais: "CC0",
+    urls: ["https://opengameart.org/content/lpc-expanded-hair"],
+  },
+  {
+    nome: "Coque (Bangs bun)",
+    arquivoFonte: "hair/bangs_bun/adult/idle.png",
+    autores: ["ElizaWy", "bluecarrot16"],
+    licenca: "CC0",
+    licencasOriginais: "CC0",
+    urls: ["https://opengameart.org/content/lpc-hair"],
+  },
+  {
+    nome: "Rabo de cavalo (High ponytail)",
+    arquivoFonte: "hair/high_ponytail/adult/fg/idle.png",
+    autores: ["JaidynReiman", "ElizaWy", "bluecarrot16"],
+    licenca: "OGA-BY 3.0",
+    licencasOriginais: "OGA-BY 3.0",
+    urls: [
+      "https://opengameart.org/content/lpc-hair",
+      "https://opengameart.org/content/lpc-expanded-hair",
+    ],
+  },
+  {
+    nome: "Camisa (TShirt masculina e feminina)",
+    arquivoFonte:
+      "torso/clothes/shortsleeve/tshirt/male/idle.png · torso/clothes/shortsleeve/tshirt/female/idle.png",
+    autores: [
+      "ElizaWy",
+      "JaidynReiman",
+      "Stephen Challener (Redshrike)",
+      "Johannes Sjölund (wulax)",
+    ],
+    licenca: "OGA-BY 3.0",
+    licencasOriginais: "OGA-BY 3.0",
+    urls: [
+      "https://opengameart.org/content/lpc-revised-character-basics",
+      "https://github.com/ElizaWy/LPC/tree/main/Characters/Clothing",
+      "https://opengameart.org/content/lpc-expanded-simple-shirts",
+    ],
+  },
+  {
+    nome: "Calça (Pants masculina e feminina)",
+    arquivoFonte: "legs/pants/male/idle.png · legs/pants/thin/idle.png",
+    autores: [
+      "bluecarrot16",
+      "JaidynReiman",
+      "ElizaWy",
+      "Joe White",
+      "Matthew Krohn (makrohn)",
+      "Johannes Sjölund (wulax)",
+      "Stephen Challener (Redshrike)",
+    ],
+    licenca: "OGA-BY 3.0",
+    licencasOriginais: "OGA-BY 3.0, GPL 3.0, CC-BY-SA 3.0",
+    urls: [
+      "https://opengameart.org/content/lpc-medieval-fantasy-character-sprites",
+      "https://opengameart.org/content/lpc-clothing-updates",
+      "https://opengameart.org/content/lpc-expanded-pants",
+    ],
+  },
+  {
+    nome: "Óculos",
+    arquivoFonte: "facial/glasses/glasses/adult/idle.png",
+    autores: ["ElizaWy"],
+    licenca: "OGA-BY 3.0",
+    licencasOriginais: "OGA-BY 3.0",
+    urls: ["https://opengameart.org/content/lpc-expanded-sit-run-jump-more"],
+  },
+  {
+    nome: "Faixa de cabeça",
+    arquivoFonte: "hat/headband/thick/adult/idle.png",
+    autores: ["JaidynReiman"],
+    licenca: "OGA-BY 3.0+",
+    licencasOriginais: "OGA-BY 3.0+, CC-BY 3.0+, GPL 3.0",
+    urls: [
+      "https://opengameart.org/content/lpc-relm-hair-xlong-ponytail",
+      "https://opengameart.org/content/lpc-expanded-hats-facial-helmets",
+    ],
+  },
+  {
+    nome: "Brinco simples",
+    arquivoFonte: "facial/earrings/simple/left/adult/idle.png",
+    autores: ["bluecarrot16"],
+    licenca: "CC0",
+    licencasOriginais: "CC0",
+    urls: ["https://opengameart.org/content/lpc-pirates"],
+  },
+];
+
+export const FONTES = [
+  {
+    nome: "Archivo",
+    autores: "Omnibus-Type",
+    licenca: "SIL Open Font License 1.1",
+    url: "https://fonts.google.com/specimen/Archivo",
+  },
+  {
+    nome: "IBM Plex Mono",
+    autores: "IBM",
+    licenca: "SIL Open Font License 1.1",
+    url: "https://fonts.google.com/specimen/IBM+Plex+Mono",
+  },
+];
