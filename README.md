@@ -2,6 +2,8 @@
 
 ![Interface minimalista do ateliê](docs/capturas/atelier.png)
 
+**No ar:** <https://marianamarques01.github.io/atelie-do-memento/> — abre direto no navegador, sem instalar nada.
+
 Aplicação web didática sobre o padrão de projeto **Memento**. A tela principal é um ateliê minimalista: personagem grande, personalização por miniaturas, escolha de corpo e controles de desfazer/refazer sempre visíveis. Código, pilhas e explicações ficam recolhidos em **“Ver execução passo a passo”**.
 
 - React + Vite + JavaScript, sem backend.
