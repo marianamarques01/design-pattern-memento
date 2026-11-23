@@ -1,4 +1,4 @@
-# Memento — ateliê de personagem
+# Exemplo aplicado do Padrão de Projeto Memento
 
 ![Interface minimalista do ateliê](docs/capturas/atelier.png)
 
